@@ -68,7 +68,8 @@ section{
     background-position: center;
     background-size: cover;
     text-align: center;
-    color: var(--main_color);
+    color: var(--color_2);
+    line-height: 25px;
 }
 
 .services_title{
